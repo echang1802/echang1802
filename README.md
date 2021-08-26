@@ -4,7 +4,7 @@ I'm a data scientist/analyst highly interested in game design and football analy
 
 ----------------------------
 
-:rocket: I'm developing (`Normandy`)[https://github.com/echang1802/normandy]: a python framework for data pipelines.
+:rocket: I'm developing [Normandy(https://github.com/echang1802/normandy): a python framework for data pipelines.
 
 ----------------------------
 
