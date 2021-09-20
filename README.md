@@ -8,6 +8,10 @@ I'm a data scientist/analyst highly interested in game design and football analy
 
 ----------------------------
 
+Look at my projects at [Epsilon Datalabs](https://echang1802.github.io/epsilon.github.io/index.html#page-top)
+
+----------------------------
+
 📫 Contact: 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/echang182/)](https://www.linkedin.com/in/carloscrespoi/)
